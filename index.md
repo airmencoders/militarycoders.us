@@ -2,26 +2,22 @@
 layout: splash
 feature_row:
   - title: "Airmen Coders"
-    excerpt: "Learn more about our projects."
-    url: "/projects/"
-    btn_label: "Go to Projects"
+    url: "https://airmencoders.us"
+    btn_label: "Visit"
     btn_class: "btn--inverse"
   - title: "Space Coders"
-    excerpt: "Learn more about coding, DevSecOps, and enjoy our list of free courses."
-    url: "/learn/"
-    btn_label: "Start Learning"
+    url: "https://spacecoders.us"
+    btn_label: "Visit"
     btn_class: "btn--inverse"
   - title: "Marine Coders"
-    excerpt: "Learn more about the Air Force's software goals and enabling platforms on the Chief Software Officer's website."
-    url: "https://software.af.mil"
-    btn_label: "CSO Website"
+    url: "https://marinecoders.us"
+    btn_label: "Visit"
     btn_class: "btn--inverse"
 ---
   
 <br /><br />
-![Airmen Coders logo with #BuiltByAirmen](/assets/images/AirmenCodersFull500x276.png){: .align-center}  
 
-<p align="center">We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen.</p>
+<p align="center">Visit our Service Coding Organizations</p>
 <br /><br />
 {% include feature_row %}
   

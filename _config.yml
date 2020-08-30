@@ -1,11 +1,11 @@
 title: Airmen Coders
-logo: "/assets/images/ACLogoSmallWhiteBG.png"
+#logo: "/assets/images/ACLogoSmallWhiteBG.png"
 
 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Airmen Coders - #BuiltByAirmen
-subtitle: "#BuiltByAirmen"
+  Military Coders - #BuiltByUS
+subtitle: "#MilBuilt"
 minimal_mistakes_skin: dark
 search: true
 
