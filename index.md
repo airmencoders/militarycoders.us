@@ -10,6 +10,7 @@ feature_row:
     url: "https://spacecoders.us"
     btn_label: "Visit"
     btn_class: "btn--inverse"
+    image_path: "/assets/images/SpaceCoders_Logo.png"
   - title: "Marine Coders"
     url: "https://marinecoders.us"
     btn_label: "Visit"
@@ -18,7 +19,7 @@ feature_row:
   
 <br /><br />
 
-<p align="center">Visit our Service Coding Organizations</p>
+<h2 align="center">Visit our Service Coding Organizations</h2>
 <br /><br />
 {% include feature_row %}
   
