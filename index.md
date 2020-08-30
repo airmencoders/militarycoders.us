@@ -5,6 +5,7 @@ feature_row:
     url: "https://airmencoders.us"
     btn_label: "Visit"
     btn_class: "btn--inverse"
+    image_path: "/assets/images/AirmenCodersFull.png"
   - title: "Space Coders"
     url: "https://spacecoders.us"
     btn_label: "Visit"
