@@ -6,7 +6,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Military Coders - #BuiltByUS
 subtitle: "#MilBuilt"
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
